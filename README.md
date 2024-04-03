@@ -1,2 +1,2 @@
 # sample
-first git project
+first git project sample
